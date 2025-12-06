@@ -112,8 +112,9 @@ A 2×2 grid demonstrating line, bar, scatter, and pie charts.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com/Rakshit152/Netflix_Data_Analysis.git
-cd Netflix_Data_Analysis
+git clone https://github.com/Rakshit152/Netflix-Data-Analysis.git
+cd Netflix-Data-Analysis
+
 ```
 
 ### 2️⃣ Install requirements
