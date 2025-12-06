@@ -138,9 +138,3 @@ Add your profiles here:
 
 * 🔗 GitHub: [https://github.com/Rakshit152](https://github.com/Rakshit152)
 * 🔗 LinkedIn: [https://linkedin.com/in/rakshit-choubisa](https://linkedin.com/in/rakshit-choubisa)
-
-##
-
----
-
-If you want a more **stylish README with badges, banners, colors, or images inserted**, just say *"make it stylish"*! 🚀
